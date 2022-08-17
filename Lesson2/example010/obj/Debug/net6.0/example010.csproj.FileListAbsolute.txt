@@ -1,0 +1,15 @@
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.csproj.AssemblyReference.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.AssemblyInfoInputs.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.AssemblyInfo.cs
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.csproj.CoreCompileInputs.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\bin\Debug\net6.0\example010.exe
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\bin\Debug\net6.0\example010.deps.json
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\bin\Debug\net6.0\example010.runtimeconfig.json
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\bin\Debug\net6.0\example010.dll
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\bin\Debug\net6.0\example010.pdb
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.dll
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\refint\example010.dll
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.pdb
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\example010.genruntimeconfig.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example010\obj\Debug\net6.0\ref\example010.dll

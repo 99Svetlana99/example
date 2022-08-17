@@ -1,0 +1,15 @@
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\bin\Debug\net6.0\example015.exe
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\bin\Debug\net6.0\example015.deps.json
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\bin\Debug\net6.0\example015.runtimeconfig.json
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\bin\Debug\net6.0\example015.dll
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\bin\Debug\net6.0\example015.pdb
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.csproj.AssemblyReference.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.AssemblyInfoInputs.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.AssemblyInfo.cs
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.csproj.CoreCompileInputs.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.dll
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\refint\example015.dll
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.pdb
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\example015.genruntimeconfig.cache
+C:\Users\lapte\OneDrive\Рабочий стол\c\Lesson2\example015\obj\Debug\net6.0\ref\example015.dll
